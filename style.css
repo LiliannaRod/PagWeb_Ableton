@@ -1,0 +1,111 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a.fs-5{
+    color: blue;
+}
+
+body ul li{
+    list-style-type: none;
+    display: inline;
+}
+
+img.main-img{
+    width: 1300px !important;
+    height: 650px !important;
+}
+
+div.main{
+    height: 500px;
+}
+
+li a img{
+    height: 30px;
+    width: 50px;
+    padding-bottom: 5px;
+}
+
+img.img1{
+    height: 35%;
+    width: 35%;
+    margin-top: 120px;
+    margin-left: 150px;
+}
+
+
+img.img2{
+    height: 600px;
+    width: 40%;
+}
+
+.d-flex img{
+    width: 70%;
+    height: 45%;
+} 
+
+section{
+    margin: 100px 350px;
+}
+
+span{
+    color: blue;
+}
+
+.contenedor-imagen {
+    position: relative;
+}
+
+.texto-encima {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+div.img{
+    background-color: #fbffa7;
+    height: 500px;
+    width: 80%;
+}
+
+div.collage{
+    height: 850px;
+    width: 800px;
+}
+
+img.collage{
+    margin-top: 220px;
+}
+
+img.img3{
+    padding-top: 200px;
+    margin-left: 100px;
+}
+
+.menu li{
+    position: relative;
+    width: 1490px;
+}
+
+.menu li:hover ul{
+    display: block;
+    background-color: white;
+}
+
+
+.menu ul{
+    display:none;
+    position:absolute;
+    
+}
+
+.parrafo{
+    margin-top: 120px !important;
+} 
